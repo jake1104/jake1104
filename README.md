@@ -10,7 +10,6 @@
 <h3 align="center">🏷️ Cards</h3>
 
 <p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjake1104%2Fjake1104&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"><br>
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank"><img src="https://github-profile-trophy.vercel.app/?username=jake1104&theme=discord&row=1&column=6&no-frame=true"></a>
   
 
