@@ -9,8 +9,10 @@
 
 <h3 align="center">🏷️ Cards</h3>
 
+<!--
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank"><img src="https://github-profile-trophy.vercel.app/?username=jake1104&theme=discord&row=1&column=6&no-frame=true"></a>
+-->
   
 
 <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
