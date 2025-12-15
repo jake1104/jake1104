@@ -3,8 +3,8 @@
 <h3 align="center">🔭 Activity</h3>
 
 <p align="center">
-  <a href="https://github.com/jake1104/MathOn" target="_blank">MathOn</a><br/>
-  <a href="https://github.com/jake1104/baekjoon" target="_blank">Baekjoon Solved Probelms</a>
+  <a href="https://github.com/jake1104/KULIM" target="_blank">KULIM</a><br/>
+  <a href="https://github.com/jake1104/baekjoon" target="_blank">Baekjoon Stats</a>
 </p>
 
 <h3 align="center">🏷️ Cards</h3>
