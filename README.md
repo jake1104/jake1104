@@ -3,8 +3,8 @@
 <h3 align="center">🔭 Activity</h3>
 
 <p align="center">
-  <a href="https://github.com/jake1104/KULIM" target="_blank">KULIM</a><br/>
-  <a href="https://github.com/jake1104/jakebot" target="_blank">jakebot</a><br/>
+  <a href="https://github.com/jake1104/nandmorphic" target="_blank">nandmorphic</a><br/>
+  <a href="https://github.com/jake1104/codezip" target="_blank">codezip</a><br/>
   <a href="https://github.com/jake1104/baekjoon" target="_blank">Baekjoon Stats</a>
 </p>
 
