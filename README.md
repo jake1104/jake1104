@@ -4,11 +4,12 @@
 <h3 align="center">🔭 Activity</h3>
 
 <p align="center">
+  <a href="https://github.com/jake1104/baekjoon" target="_blank">Baekjoon Stats</a>
+  <a href="https://github.com/jake1104/codezip" target="_blank">codezip</a><br/>
   <a href="https://github.com/jake1104/GrayNFS" target="_blank">GrayNFS</a><br/>
   <a href="https://github.com/jake1104/nandmorphic" target="_blank">nandmorphic</a><br/>
-  <a href="https://github.com/jake1104/codezip" target="_blank">codezip</a><br/>
   <a href="https://github.com/jake1104/ARTicul" target="_blank">ARTticul</a><br/>
-  <a href="https://github.com/jake1104/baekjoon" target="_blank">Baekjoon Stats</a>
+  <a href="https://github.com/jake1104/Schlaf" target="_blank">Schlaf</a><br/>
 </p>
 
 <h3 align="center">🏷️ Cards</h3>
