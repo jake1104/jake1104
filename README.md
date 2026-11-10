@@ -10,6 +10,7 @@
   <a href="https://github.com/jake1104/nandmorphic" target="_blank">nandmorphic</a><br/>
   <a href="https://github.com/jake1104/ARTicul" target="_blank">ARTticul</a><br/>
   <a href="https://github.com/jake1104/Schlaf" target="_blank">Schlaf</a><br/>
+  <a href="https://github.com/jake1104/dean" target="_blank">dean</a><br/>
 </p>
 
 <h3 align="center">🏷️ Cards</h3>
